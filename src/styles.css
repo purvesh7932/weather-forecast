@@ -1,0 +1,156 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+@import "~@ng-select/ng-select/themes/default.theme.css";
+
+.stretch-card>.card {
+    width: 100%;
+    min-width: 100%
+}
+
+.weakly-default{
+    font-size: 15px;
+    font-weight: fold;
+}
+
+.flex {
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto
+}
+
+@media (max-width:991.98px) {
+    .padding {
+        padding: 1.5rem
+    }
+}
+
+@media (max-width:767.98px) {
+    .padding {
+        padding: 1rem
+    }
+}
+
+.padding {
+    padding: 1.5rem
+}
+
+.grid-margin,
+.purchace-popup>div {
+    margin-bottom: 25px
+}
+
+.card {
+    border: 0;
+    border-radius: 2px
+}
+
+.card-weather {
+    background: #e1ecff;
+    background-image: linear-gradient(to left bottom, #d6eef6, #dff0fa, #e7f3fc, #eff6fe, #f6f9ff)
+}
+
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 1rem;
+    border:1px solid #7a7373;
+}
+
+body{
+    background: url(./assets/img/back-img.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.card-weather .card-body:first-child {
+    background-color:#fbf9f9;
+}
+
+.card .card-body {
+    padding: 1.88rem 1.81rem
+}
+
+.card-body {
+    flex: 1 1 auto;
+    padding: 1.25rem
+}
+
+.card-weather .weather-date-location {
+    padding: 0 0 22px
+}
+
+.h3,
+h3 {
+    font-size: 1.56rem
+}
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500
+}
+
+.text-gray{
+    color: #171515
+}
+
+p {
+    font-size: 13px
+}
+
+.card-weather .weather-data {
+    padding: 0;
+}
+
+.mr-auto,
+.mx-auto {
+    margin-right: auto !important
+}
+
+.card-weather .card-body {
+    background: #ffffff
+}
+
+.mb-10{
+    margin-bottom: 10px;
+}
+
+.weather-info {
+    font-size: 13px;
+    font-weight: 600;
+}
+.weather-sec1{
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.weather-logo{
+    height: 70px;
+}
+.weather-title{
+    font-size: 30px;
+    font-weight: 600;
+    color:#133356;
+}
+
+.weakly-default{
+    font-size: 15px;
+    font-weight: 600;
+}
