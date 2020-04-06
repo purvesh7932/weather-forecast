@@ -10,6 +10,7 @@ Run `npm install` on your terminal first.
 
 Run `ng serve` for a dev server. Navigate to Ex.`http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+
 ## Setup Api PHP 
 
 Source of code inside `api/weather`
@@ -17,7 +18,10 @@ Database of city  `api/db/weather`
 
 You need to setup on your php wamp/xammp server weather api souce code
 
+
 ## Environment Setting
+
+Path of environment file `weather-forecast\src\environments\environment.ts`
 
 ```
 export const environment = {
