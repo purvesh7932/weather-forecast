@@ -19,7 +19,7 @@ Database of city  `api/db/weather`
 You need to setup on your php wamp/xammp server weather api souce code
 
 
-## How to open import database
+## How to import database in phpMyAdmin
 
 Please refer this link  https://help.one.com/hc/en-us/articles/115005588189-How-do-I-import-a-database-to-phpMyAdmin-
 
