@@ -15,7 +15,7 @@ if ($conn->connect_error) {
 } 
 
   //echo "Connected successfully";
-$sql = "SELECT * FROM city";
+$sql = "SELECT * FROM cities";
 $result = mysqli_query($conn,$sql); 
 $myArray = array();
 if ($result->num_rows > 0) {
