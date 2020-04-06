@@ -20,10 +20,10 @@ You need to setup on your php wamp/xammp server weather api souce code
 ## Environment Setting
 
 `export const environment = {
-    production: false,
-    appId: 'ff5d084541aac5b27ef0f46c449da8ca',
-    baseUrl: 'http://api.openweathermap.org/data/2.5/',
-    imgpath: 'http://openweathermap.org/img/w/',
-    apiPath: 'http://localhost/weather/index.php'
+    `production: false,`
+    `appId: 'ff5d084541aac5b27ef0f46c449da8ca',`
+    `baseUrl: 'http://api.openweathermap.org/data/2.5/',`
+    `imgpath: 'http://openweathermap.org/img/w/',`
+    `apiPath: 'http://localhost/weather/index.php'`
 };` 
 
