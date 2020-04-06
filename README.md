@@ -25,6 +25,8 @@ Please refer this link  https://help.one.com/hc/en-us/articles/115005588189-How-
 
 ## Database Configuration
 
+File path `api/weather/index.php`
+
 ```
 $servername = "localhost";
 $username   = "root";
