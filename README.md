@@ -23,6 +23,15 @@ You need to setup on your php wamp/xammp server weather api souce code
 
 Please refer this link  https://help.one.com/hc/en-us/articles/115005588189-How-do-I-import-a-database-to-phpMyAdmin-
 
+## Database Configuration
+
+```
+$servername = "localhost";
+$username   = "root";
+$password   = "";
+$dbname     = "weather";
+``` 
+
 
 ## Environment Setting
 
