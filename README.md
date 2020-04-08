@@ -15,12 +15,12 @@ Run `npm install` on your terminal first.
 Run `ng serve` for a dev server. Navigate to Ex.`http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 
-## Setup Api PHP 
+## Setup PHP api in your wamp/xampp server
 
 PHP source of code : `api/weather`
 Database of city : `api/db/weather.sql`
 
-You need to setup on your php wamp/xammp server weather api souce code already attached with this repo inside api/...
+You need to setup on your php wamp/xampp server weather api souce code already attached with this repo inside api/...
 
 
 ## How do I import a database to phpMyAdmin?
