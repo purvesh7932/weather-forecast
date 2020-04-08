@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
-## Setup angular wearther forecast project in your system
+## Setup angular weather forecast project in your system
 
 Run `git clone https://github.com/ankurradadiya/weather-forecast.git`
 
