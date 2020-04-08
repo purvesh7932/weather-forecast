@@ -25,11 +25,13 @@ You need to setup on your php wamp/xammp server weather api souce code already a
 
 ## How do I import a database to phpMyAdmin?
 
+```
 Step 1 - Click Databases in the top-menu.
 Step 2 - Click the name of the database you want to import to.
 Step 3 - Click Import.
 Step 4 - Choose file and click Go. Click Choose file and select the database file you want to import.
 Step 5 - You're done. The import is now done.
+```
 
 ## Database Configuration
 
