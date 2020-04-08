@@ -23,9 +23,13 @@ Database of city : `api/db/weather.sql`
 You need to setup on your php wamp/xammp server weather api souce code already attached with this repo inside api/...
 
 
-## How to import database in phpMyAdmin
+## How do I import a database to phpMyAdmin?
 
-Please refer this link  https://help.one.com/hc/en-us/articles/115005588189-How-do-I-import-a-database-to-phpMyAdmin-
+Step 1 - Click Databases in the top-menu.
+Step 2 - Click the name of the database you want to import to.
+Step 3 - Click Import.
+Step 4 - Choose file and click Go. Click Choose file and select the database file you want to import.
+Step 5 - You're done. The import is now done.
 
 ## Database Configuration
 
