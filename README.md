@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
+## Setup angular wearther forecast project in your system
+
+Run `git clone https://github.com/ankurradadiya/weather-forecast.git`
+
 ## Install node module
 
 Run `npm install` on your terminal first.
@@ -13,10 +17,10 @@ Run `ng serve` for a dev server. Navigate to Ex.`http://localhost:4200/`. The ap
 
 ## Setup Api PHP 
 
-Source of code inside `api/weather`
-Database of city  `api/db/weather`
+PHP source of code : `api/weather`
+Database of city : `api/db/weather.sql`
 
-You need to setup on your php wamp/xammp server weather api souce code
+You need to setup on your php wamp/xammp server weather api souce code already attached with this repo inside api/...
 
 
 ## How to import database in phpMyAdmin
